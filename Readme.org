@@ -1,3 +1,9 @@
 * Summary
 
   just testing magithub
+
+  creating a remote repository works.
+
+  creating an issue works, but doesn't remove the comment-lines in the magit buffer.
+ 
+  now testing submitting a pull request.
